@@ -13,7 +13,7 @@ channel_targets:
 docker_image:
 - quay.io/condaforge/linux-anvil-x86_64:alma10
 nodejs:
-- '24'
+- '26'
 openssl:
 - '3.5'
 rust_compiler:
